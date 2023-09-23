@@ -189,7 +189,7 @@ def remove_control_chars(s):
 	return control_char_re.sub('', s)
 
 def getSynonyms(search):
-	db 			= mdb.connect(host="localhost",user="root", passwd="rouTer99", db="UNAIQUE", use_unicode=True, charset="utf8mb4")
+	db 			= mdb.connect(host="localhost",user="#######", passwd="#######", db="#######", use_unicode=True, charset="utf8mb4")
 	cursor 		= db.cursor()
 	search 		= str(search)
 	search 		= remove_control_chars(search)
