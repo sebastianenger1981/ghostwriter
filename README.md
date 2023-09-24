@@ -27,3 +27,5 @@ Join our community of writers and take advantage of our commitment to quality, s
 📌 Visit our GitHub repository today to explore the open-source code: [ArtikelSchreiber.com Ghostwriting Tools](https://github.com/sebastianenger1981/ghostwriter)
 
 Ready to write smarter, faster, and in multiple languages? Try ArtikelSchreiber.com now and witness the evolution of content creation. Start crafting exceptional content with ease today!
+<li><a href="https://substack.com/@sebastianenger" target='_self' hreflang='de' title="Sebastian Enger auf Substrack">Sebastian Enger auf Substrack</a></li>   <br>
+<li><a href="https://artikelschreiber.substack.com/p/die-evolution-des-webinhalts-von" target='_self' hreflang='de' title="Die Evolution des Webinhalts: Von KI zu AGI">Die Evolution des Webinhalts: Von KI zu AGI</a></li>  <br>
