@@ -1,6 +1,6 @@
 # <b>Ghost Writer: Software for <a href="http://www.artikelschreiber.com/" hreflang="de" title="Simplify Sentences Software for Ghostwriter Artikelschreiber.com">Ghostwriter</a> Artikelschreiber.com<b>
 
-<b>Software Tools for Ghost Writer: http://www.artikelschreiber.com/, https://www.artikelschreiben.com/ and the AI Text Generator enhanced Ghostwriter tools on http://www.unaique.net/ & http://www.unaique.com/<b>
+<b>Software Tools for Ghost Writer: https://www.artikelschreiber.com/guestblogging/, http://www.artikelschreiber.com/, https://www.artikelschreiben.com/ and the AI Text Generator enhanced Ghostwriter tools on http://www.unaique.net/ & http://www.unaique.com/<b>
 
 Introducing ArtikelSchreiber.com: Your Ultimate Writing Companion!
 
